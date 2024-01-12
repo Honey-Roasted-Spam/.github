@@ -2,7 +2,7 @@
 
 What's with the name?
 
-Well, It's simple really, we honeytrap then roast the spammer hosts.
+Well, It's simple really, we honeypot then roast the spammer hosts.
 
 By roast, though, I mean, politely and calmly name and shame hosting and infrastructure providers that continue to do nothing
 when spammers continue to use their networks.
